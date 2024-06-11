@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\MMM\MMM\bin\Debug\net8.0\MMM.exe
+C:\Users\HP\source\repos\MMM\MMM\bin\Debug\net8.0\MMM.deps.json
+C:\Users\HP\source\repos\MMM\MMM\bin\Debug\net8.0\MMM.runtimeconfig.json
+C:\Users\HP\source\repos\MMM\MMM\bin\Debug\net8.0\MMM.dll
+C:\Users\HP\source\repos\MMM\MMM\bin\Debug\net8.0\MMM.pdb
+C:\Users\HP\source\repos\MMM\MMM\obj\Debug\net8.0\MMM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\MMM\MMM\obj\Debug\net8.0\MMM.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\MMM\MMM\obj\Debug\net8.0\MMM.AssemblyInfo.cs
+C:\Users\HP\source\repos\MMM\MMM\obj\Debug\net8.0\MMM.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MMM\MMM\obj\Debug\net8.0\MMM.dll
+C:\Users\HP\source\repos\MMM\MMM\obj\Debug\net8.0\refint\MMM.dll
+C:\Users\HP\source\repos\MMM\MMM\obj\Debug\net8.0\MMM.pdb
+C:\Users\HP\source\repos\MMM\MMM\obj\Debug\net8.0\MMM.genruntimeconfig.cache
+C:\Users\HP\source\repos\MMM\MMM\obj\Debug\net8.0\ref\MMM.dll
